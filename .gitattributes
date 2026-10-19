@@ -1,0 +1,2 @@
+# Preserve the pinned upstream doctest file byte-for-byte (including its whitespace).
+third_party/doctest.h whitespace=-blank-at-eol

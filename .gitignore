@@ -1,0 +1,19 @@
+/build*/
+/work/
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+
+# Legacy local executable and plaintext account/reservation data
+/main
+/admin.txt
+/student.txt
+/teacher.txt
+/order.txt
+
+# Personal learning notes, internal progress logs, and local editor configuration
+/problem.md
+/docs/upgrade_plan.md
+/.vscode/
+/computer.txt
